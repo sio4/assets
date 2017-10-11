@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'SHMyungjo';
+    font-weight: 100;
+    src: url('SHMyungjo110.woff') format('woff');
+}
+@font-face {
+    font-family: 'SHMyungjo';
+    font-weight: 400;
+    src: url('SHMyungjo140.woff') format('woff');
+}
